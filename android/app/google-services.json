@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "175511160481",
+    "firebase_url": "https://ostraders-ff7ba.firebaseio.com",
+    "project_id": "ostraders-ff7ba",
+    "storage_bucket": "ostraders-ff7ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175511160481:android:48028291c496c4daa452e0",
+        "android_client_info": {
+          "package_name": "com.ricardococati.ostradersappteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175511160481-rqndkgglhrp46ugde29vj9iaoaci5r5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ricardococati.ostradersappteste",
+            "certificate_hash": "430b00d63aae1476401007017c5a517cda68f9aa"
+          }
+        },
+        {
+          "client_id": "175511160481-1oq1mkncsrsron8aadtcmntldiperoml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDstLdUGcmEfJ9hIBUbeXOo4Cig5-uthQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175511160481-1oq1mkncsrsron8aadtcmntldiperoml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
